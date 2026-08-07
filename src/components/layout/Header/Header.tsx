@@ -1,5 +1,5 @@
 import Container from "../Container";
-import Logo from "./Logo";
+import Logo from "../../common/Logo";
 import Navigation from "./Navigation";
 import HeaderActions from "./HeaderActions";
 
